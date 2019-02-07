@@ -1,0 +1,3 @@
+[submodule "2019/matt-godbolt-what-everyone-should-know-about-how-amazing-compiler-are"]
+	path = 2019/matt-godbolt-what-everyone-should-know-about-how-amazing-compiler-are
+	url = https://github.com/mattgodbolt/cpponsea-2019
