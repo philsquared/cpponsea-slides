@@ -1,0 +1,1 @@
+Slides and sample code for the talk can be found here: https://github.com/AlexCombat/cpp-performance-optimization
