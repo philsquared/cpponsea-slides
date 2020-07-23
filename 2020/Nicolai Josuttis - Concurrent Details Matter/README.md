@@ -1,0 +1,1 @@
+Nico's [slides can be found here](http://josuttis.de/download/cpponsea/C%2B%2B_threading_josuttis_200716.pdf)
